@@ -50,7 +50,7 @@ dependencies {
     implementation 'com.facebook.react:react-native:+'
     implementation 'com.google.firebase:firebase-core:21.1.1'
     implementation 'com.google.firebase:firebase-messaging:21.0.0'
-    implementation 'com.pusher:push-notifications-android:1.4.5'
+    implementation 'com.pusher:push-notifications-android:1.8.0'
     implementation 'androidx.work:work-runtime-ktx:2.8.1'
 
 }
